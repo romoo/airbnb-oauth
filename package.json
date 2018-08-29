@@ -1,0 +1,29 @@
+{
+  "name": "airbnb-oauth",
+  "version": "0.0.1",
+  "description": "airbnb oauth",
+  "main": "src/airbnb-oauth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:romoo/airbnb-oauth.git"
+  },
+  "keywords": [
+    "airbnb",
+    "OAuth"
+  ],
+  "author": "romoo",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
